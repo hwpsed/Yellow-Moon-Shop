@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/J3.L.P0010_MiniSocialNetwork">
+  <Resource auth="Container" driverClassName="com.microsoft.sqlserver.jdbc.SQLServerDriver" name="YellowMoonDS" password="123" type="javax.sql.DataSource" 
+            url="jdbc:sqlserver://localhost:1433;databaseName=YellowMoon;" username="sa"/>
+</Context>
